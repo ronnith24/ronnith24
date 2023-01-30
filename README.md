@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Imperative Programming <br>👯 I’m looking to collaborate on Haskell Programming<br>🌱 I’m currently learning #Scala <br>💬 Ask me about Competitive programming, Algorithmic Problem Solving<br>⚡ Fun fact - Love Puzzles , Board Games ec
+🔭 I’m currently working on different aspect of Functional Programming and Imperative Programming <br>👯 I’m looking to collaborate on Haskell Programming<br>🌱 I’m currently learning #Scala <br>💬 Ask me about Competitive programming, Algorithmic Problem Solving<br>⚡ Fun fact - Love Puzzles , Board Games etc
 
 
 ## 🌐 Socials:
