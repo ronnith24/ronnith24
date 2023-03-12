@@ -1,4 +1,5 @@
 # 💫 About Me:
+Incoming Amazon Discover Spring Technology Participant April 2023
 🔭 I’m currently pursuing Bachelors in Computer Science at University of Oxford.This course at Oxford concentrates on bridging theory and practice, including a wide variety of hardware and software technologies and their applications. <br>👯 I’m looking for  Software Developemnt internship program this summer to expose my learnings to different aspects of software enegineering.  <br>🌱 In the first term of my Bachelors program  we learnt Functional Programming #Haskell and currently in the 2nd Term we are working on understanding #Scala  <br>💬 Ask me about Competitive programming, Algorithmic Problem Solving <br>⚡I enjoy Competitive Programming and have been part of the IOI Training Camp for India in 2021 and 2022. 
 
 
