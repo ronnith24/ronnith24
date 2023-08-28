@@ -1,10 +1,15 @@
 # 💫 About Me:
 🔭 Penultimate Computer Science undergrad at [***University of Oxford***](https://www.ox.ac.uk/)  with First Class Distinction (Class Rank 6) in Prelims (1st Public Examination).<br>
+
 👯 I am working as Software Engineering Intern at [***Ocado Technology***](https://www.ocadogroup.com/technology/technology-pioneers/) ***Deployment Services Team*** for the 2023 Summer. <br> 
+
 🔰 Participated in [***AMAZON DISCOVER SPRING TECHNOLOGY INSIGHTS***](https://www.amazon.jobs/en/business_categories/student-programs) UK23 <br> 
+
 🌱 First year coursework at Oxford has been a combination of Mathematics,Functional Programming ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) and ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white) with Design and Analysis of Algorithms.  <br>
 📚 My Certifiction [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)  from ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) ![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
-💻My Competitive Progarmmins stats [**Candidate Master**] at ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) [**Guardian**] at ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) [**6⭐**] at ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) [**5⭐**] on Problem Solving at ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+
+💻My Competitive Progarmmins stats **Candidate Master** at ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) **Guardian** at ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) **6⭐** at ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) **5⭐** on Problem Solving at ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+
 💬 Lets talk about untangling complex problems and crafting code that's both optimized and comprehensible.<br> 
 
 ## 🌐 Socials:
