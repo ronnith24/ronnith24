@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 Penultimate Computer Science undergrad at University of Oxford with First Class Distinction (Class Rank 6) in Prelims (1st Public Examination).<br>
-👯 I am working as Software Engineering Intern at @Ocado Technology Deployment Services Team for the 2023 Summer. <br> 
-🔰 Participated in AMAZON DISCOVER SPRING TECHNOLOGY INSIGHTS UK23 <br> 
+🔭 Penultimate Computer Science undergrad at [***University of Oxford***](https://www.ox.ac.uk/)  with First Class Distinction (Class Rank 6) in Prelims (1st Public Examination).<br>
+👯 I am working as Software Engineering Intern at [***Ocado Technology***](https://www.ocadogroup.com/technology/technology-pioneers/) ***Deployment Services Team*** for the 2023 Summer. <br> 
+🔰 Participated in [***AMAZON DISCOVER SPRING TECHNOLOGY INSIGHTS***](https://www.amazon.jobs/en/business_categories/student-programs) UK23 <br> 
 🌱 First year coursework at Oxford has been a combination of Mathematics,Functional Programming ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) and ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white) with Design and Analysis of Algorithms.  <br>
 💬 Lets talk about untangling complex problems and crafting code that's both optimized and comprehensible <br> 
 
