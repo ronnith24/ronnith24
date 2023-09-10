@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Penultimate Computer Science undergrad at [**University of Oxford**](https://www.ox.ac.uk/)  with First Class Distinction (Class Rank 6) in Prelims (1st Public Examination).<br>
 
-👯 I am working as Software Engineering Intern at [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) ***Deployment Services Team*** for the 2023 Summer. <br> 
+👯 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) in United Kingdom during 2023 Summer. <br> 
 
 🔰 Participated in [**AMAZON DISCOVER SPRING TECHNOLOGY INSIGHTS**](https://www.amazon.jobs/en/business_categories/student-programs) UK23 <br> 
 
