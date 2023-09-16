@@ -3,7 +3,7 @@
 
 📝 2nd Year Coursework : 📘Models of Computation 📘 Concurrent Programming 📘 Compilers 📘 Algorithms and Data Structures 📘 Probability 📘 Computational Complexity 📘 Databases 📘 Machine Learning
     
-👯 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) in United Kingdom during 2023 Summer. <br> 
+🧑‍💻 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) in United Kingdom during 2023 Summer. <br> 
 
 🔰 Participated in [**AMAZON DISCOVER SPRING TECHNOLOGY INSIGHTS**](https://www.amazon.jobs/en/business_categories/student-programs) UK23 <br> 
 
