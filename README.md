@@ -1,11 +1,13 @@
 # 💫 About Me:
-🔭 Penultimate Computer Science undergrad at [**University of Oxford**](https://www.ox.ac.uk/)  with First Class Distinction (Class Rank 6) in Prelims (1st Public Examination).<br>
+🔭 Penultimate Computer Science undergrad at [**University of Oxford**](https://www.ox.ac.uk/) <br>
 
+📝 2nd Year Coursework : 📘Models of Computation 📘 Concurrent Programming 📘 Compilers 📘 Algorithms and Data Structures 📘 Probability 📘 Computational Complexity 📘 Databases 📘 Machine Learning
+    
 👯 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) in United Kingdom during 2023 Summer. <br> 
 
 🔰 Participated in [**AMAZON DISCOVER SPRING TECHNOLOGY INSIGHTS**](https://www.amazon.jobs/en/business_categories/student-programs) UK23 <br> 
 
-🌱 First year coursework at Oxford has been a combination of Mathematics,Functional Programming ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) and ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white) with Design and Analysis of Algorithms.  <br>
+📕 First year coursework at Oxford has been a combination of Mathematics,Functional Programming ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) and ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white) with Design and Analysis of Algorithms. Result First Class Distinction (Class Rank 6) in Prelims (1st Public Examination). <br>
 
 📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)      from      ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)         ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)                   ![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
 
