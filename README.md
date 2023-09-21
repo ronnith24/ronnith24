@@ -17,11 +17,12 @@
 
 [**Candidate Master**](https://codeforces.com/profile/ronnith)   at   ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) 
 
-[**Guardian**](https://leetcode.com/ronnith/)      at     ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) 
+[**5⭐**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1)      on Problem Solving   at      ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 
 **6⭐**         at            ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) 
 
-[**5⭐**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1)      on Problem Solving   at      ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+[**Guardian**](https://leetcode.com/ronnith/)      at     ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) 
+
 
 💬 Enjoy  untangling complex problems and crafting code that's both optimized and comprehensible.<br> 
 
