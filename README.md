@@ -1,13 +1,14 @@
 # 💫 About Me:
+
 🔭 2nd Year  MCompSc undergrad at [**University of Oxford**](https://www.ox.ac.uk/) <br>
 
-📝 2nd Year Coursework : 📘Models of Computation 📘 Concurrent Programming 📘 Compilers 📘 Algorithms and Data Structures 📘 Probability 📘 Computational Complexity 📘 Databases 📘 Machine Learning
-
-Incoming Software Development Engineering Intern at [**Amazon UK**](https://www.aboutamazon.com/) for summer 2024
+Incoming Software Development Engineering Intern at [**AMAZON**](https://www.aboutamazon.com/) for summer 2024 in the [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) team located at Amazon UK Headquarters London.<br>
     
 🧑‍💻 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) in United Kingdom during 2023 Summer. <br> 
 
-🔰 Participated in [**AMAZON DISCOVER SPRING TECHNOLOGY INSIGHTS**](https://www.amazon.jobs/en/business_categories/student-programs) UK23 <br> 
+🔰 Participated in [**Amazon Discover Spring Technology Insight**](https://www.amazon.jobs/en/business_categories/student-programs) event United Kingdom for spring 2023.<br> 
+
+📝 2nd Year Coursework : 📘Models of Computation 📘 Concurrent Programming 📘 Compilers 📘 Algorithms and Data Structures 📘 Probability 📘 Computational Complexity 📘 Databases 📘 Machine Learning
 
 📕 First year coursework at Oxford has been a combination of Mathematics,Functional Programming  ➡️ ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ➡️ ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white) with Design and Analysis of Algorithms.
 
