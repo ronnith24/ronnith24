@@ -22,13 +22,13 @@ Incoming Software Development Engineering Intern at [**AMAZON**](https://www.abo
 
 💻My Competitive Progarmmins stats 
 
-[**Candidate Master**](https://codeforces.com/profile/ronnith) at ![Codeforces]
+[**Candidate Master**](https://codeforces.com/profile/ronnith) at **Codeforces**
 
-[**5⭐**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1) on Problem Solving at  ![Hackerrank]
+[**5⭐**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1) on Problem Solving at  **Hackerrank**
 
-**6⭐**  at ![CodeChef]
+**6⭐**  at **CodeChef**
 
-[**Guardian**](https://leetcode.com/ronnith/)  at ![LeetCode]
+[**Guardian**](https://leetcode.com/ronnith/)  at **LeetCode**
 
 
 💬 Enjoy  untangling complex problems and crafting code that's both optimized and comprehensible.<br> 
