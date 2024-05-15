@@ -16,17 +16,16 @@ Incoming Software Development Engineering Intern at [**AMAZON**](https://www.abo
 
 ⬆️ Grade: Year 1 (Prelims) 🎯First Class 📌Distinction ✅ Ranked 6th in Year Group. <br>
 
-📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)    ➡️    ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)      ➡️   ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)         ➡️          ![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
+📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   
 
 💻My Competitive Progarmmins stats 
 
-[**Candidate Master**](https://codeforces.com/profile/ronnith)   at   ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) 
+[**Candidate Master**](https://codeforces.com/profile/ronnith) at ![Codeforces]
 
-[**5⭐**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1)      on Problem Solving   at      ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+[**5⭐**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1) on Problem Solving at  ![Hackerrank]
+**6⭐**  at ![CodeChef]
 
-**6⭐**         at            ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) 
-
-[**Guardian**](https://leetcode.com/ronnith/)      at     ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) 
+[**Guardian**](https://leetcode.com/ronnith/)  at ![LeetCode]
 
 
 💬 Enjoy  untangling complex problems and crafting code that's both optimized and comprehensible.<br> 
