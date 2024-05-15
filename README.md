@@ -6,7 +6,7 @@
 
 Incoming Software Development Engineering Intern at [**AMAZON**](https://www.aboutamazon.com/) for summer 2024 in the [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) team located at Amazon UK Headquarters London.<br>
     
-🧑‍💻 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) in United Kingdom during 2023 Summer. <br> 
+🧑‍💻 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) at Hatfield in United Kingdom during 2023 Summer. <br> 
 
 🔰 Participated in [**Amazon Discover Spring Technology Insight**](https://www.amazon.jobs/en/business_categories/student-programs) event United Kingdom for spring 2023.<br> 
 
