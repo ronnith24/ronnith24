@@ -12,7 +12,7 @@ Incoming Software Development Engineering Intern at [**AMAZON**](https://www.abo
 
 📝 2nd Year Coursework : 📘Models of Computation 📘 Concurrent Programming 📘 Compilers 📘 Algorithms and Data Structures 📘 Probability 📘 Computational Complexity 📘 Databases 📘 Machine Learning
 
-🥅 Our 🤜 “𝗧𝗲𝗮𝗺 𝟭𝟲," secured 𝗧𝗵𝗲 [**Department of Computer Science**](https://www.cs.ox.ac.uk/) [**𝗚𝗿𝗼𝘂𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗶𝘇𝗲**](https://www.cs.ox.ac.uk/news/2322-full.html) 𝗳𝗼𝗿 𝟮𝟬𝟮𝟰 with our project, the "𝗩𝗶𝘀𝗶𝗼𝗻-𝗕𝗮𝘀𝗲𝗱 𝗣𝗿𝗶𝗰𝗲 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻 𝗧𝗼𝗼𝗹." 
+🥅 Our 🤜 “𝗧𝗲𝗮𝗺 𝟭𝟲," secured 𝗧𝗵𝗲 [**Department of Computer Science**](https://www.cs.ox.ac.uk/)   [**𝗚𝗿𝗼𝘂𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗶𝘇𝗲**](https://www.cs.ox.ac.uk/news/2322-full.html) 𝗳𝗼𝗿 𝟮𝟬𝟮𝟰 with our project, the "𝗩𝗶𝘀𝗶𝗼𝗻-𝗕𝗮𝘀𝗲𝗱 𝗣𝗿𝗶𝗰𝗲 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻 𝗧𝗼𝗼𝗹." 
 
 📕 First year coursework at Oxford has been a combination of Mathematics,Functional Programming  ➡️ ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ➡️ ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white) with Design and Analysis of Algorithms.
 
