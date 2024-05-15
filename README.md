@@ -16,13 +16,14 @@ Incoming Software Development Engineering Intern at [**AMAZON**](https://www.abo
 
 ⬆️ Grade: Year 1 (Prelims) 🎯First Class 📌Distinction ✅ Ranked 6th in Year Group. <br>
 
-📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   
+📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   on [Deep Learning] [Probability -The Science of Data & Uncertainty] [Introduction to Mathematical Thinking] [CS50 Computer Science for Artificial Intelligence] [Computational Thinking Using Python] [Machine learning] [Quantum Machine Learning]
 
 💻My Competitive Progarmmins stats 
 
 [**Candidate Master**](https://codeforces.com/profile/ronnith) at ![Codeforces]
 
 [**5⭐**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1) on Problem Solving at  ![Hackerrank]
+
 **6⭐**  at ![CodeChef]
 
 [**Guardian**](https://leetcode.com/ronnith/)  at ![LeetCode]
