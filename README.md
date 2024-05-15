@@ -16,7 +16,7 @@ Incoming Software Development Engineering Intern at [**AMAZON**](https://www.abo
 
 ⬆️ Grade: Year 1 (Prelims) 🎯First Class 📌Distinction ✅ Ranked 6th in Year Group. <br>
 
-📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   on [Deep Learning] [Probability -The Science of Data & Uncertainty] [Introduction to Mathematical Thinking] [CS50 Computer Science for Artificial Intelligence] [Computational Thinking Using Python] [Machine learning] [Quantum Machine Learning]
+📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   on [**Deep Learning**] [Probability -The Science of Data & Uncertainty] [Introduction to Mathematical Thinking] [CS50 Computer Science for Artificial Intelligence] [Computational Thinking Using Python] [Machine learning] [Quantum Machine Learning]
 
 💻My Competitive Progarmmins stats 
 
