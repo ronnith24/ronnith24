@@ -1,23 +1,20 @@
 # 💫 About Me:
 
-🔭 2nd Year  MCompSc undergrad at [**University of Oxford**](https://www.ox.ac.uk/) <br>
+🔭 3rd Year  MCompSc undergrad at [**University of Oxford**](https://www.ox.ac.uk/) <br>
+
+Currently interning as Software Development Engineering  at [**AMAZON**](https://www.aboutamazon.com/) from July 2024 in Prime Video   [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) Living Room Platform team located at Amazon UK Headquarters London.<br>
 
  🏆 Our 🤜 “𝗧𝗲𝗮𝗺 𝟭𝟲," secured 𝗧𝗵𝗲 [**Department of Computer Science**](https://www.cs.ox.ac.uk/) [**𝗚𝗿𝗼𝘂𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗶𝘇𝗲**](https://www.cs.ox.ac.uk/news/2322-full.html) 𝗳𝗼𝗿 𝟮𝟬𝟮𝟰 with our project, the "𝗩𝗶𝘀𝗶𝗼𝗻-𝗕𝗮𝘀𝗲𝗱 𝗣𝗿𝗶𝗰𝗲 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻 𝗧𝗼𝗼𝗹." in the Annual Group Design Practical showcase event. We worked on this project in association with our industry partner [**APEXE3**](https://www.linkedin.com/company/apexe3/) 
  
  **Discover Citadel** 2024 Spring Program Invitee at  [**CITADEL**](https://www.citadel.com/)
 
-Software Development Engineering Intern at [**AMAZON**](https://www.aboutamazon.com/) for summer 2024 in the [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) team located at Amazon UK Headquarters London.<br>
     
 🧑‍💻 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) at Hatfield in United Kingdom during 2023 Summer. <br> 
 
 🔰 Participated in [**Amazon Discover Spring Technology Insight**](https://www.amazon.jobs/en/business_categories/student-programs) event United Kingdom for spring 2023.<br> 
 
-📝 2nd Year Coursework : 📘Models of Computation 📘 Concurrent Programming 📘 Compilers 📘 Algorithms and Data Structures 📘 Probability 📘 Computational Complexity 📘 Databases 📘 Machine Learning
-
-
-📕 First year coursework at Oxford has been a combination of Mathematics,Functional Programming  ➡️ ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ➡️ ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white) with Design and Analysis of Algorithms.
-
-⬆️ Grade: Year 1 (Prelims) 🎯First Class 📌Distinction ✅ Ranked 6th in Year Group. <br>
+📚 Core Course work completed till now include  
+𝐏𝐫𝐨𝐛𝐚𝐛𝐢𝐥𝐢𝐭𝐲 || 𝐃𝐢𝐬𝐜𝐫𝐞𝐭𝐞 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐬 || 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠  || 𝐋𝐢𝐧𝐞𝐚𝐫 𝐀𝐥𝐠𝐞𝐛𝐫𝐚 || 𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐬 || 𝐃𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐨𝐟 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 || 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 || 𝐈𝐦𝐩𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 || 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐏𝐫𝐨𝐨𝐟 𝐒𝐲𝐬𝐭𝐞𝐦𝐬|| 𝐂𝐨𝐦𝐩𝐢𝐥𝐞𝐫𝐬|| 𝐌𝐨𝐝𝐞𝐥𝐬 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧 ||𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬|| 𝐂𝐨𝐧𝐜𝐮𝐫𝐫𝐞𝐧𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
 
 📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   on 📚**Deep Learning** 📚**Probability -The Science of Data & Uncertainty** 📚**Introduction to Mathematical Thinking** 📚**CS50 Computer Science for Artificial Intelligence** 📚**Computational Thinking Using Python** 📚**Machine learning** 📚**Quantum Machine Learning**
 
