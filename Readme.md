@@ -6,7 +6,7 @@
 ![Oxford LI Banner 1](https://github.com/user-attachments/assets/fbde2126-aab2-4902-a353-3ca0cefe8147)
 
 
-🏆**LinkedIn Top Voice ** for Computer Science & Programming 
+🏆**LinkedIn Top Voice** for Computer Science & Programming 
 
 Currently Software Development Engineering intern at [**AMAZON**](https://www.aboutamazon.com/) from July 2024 in   [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) Living Room Platform team located at Amazon UK Headquarters London.<br>
 
