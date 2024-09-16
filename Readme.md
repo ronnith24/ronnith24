@@ -23,13 +23,6 @@ Currently Software Development Engineering intern at [**AMAZON**](https://www.ab
 📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   on 📚**Deep Learning** 📚**Probability -The Science of Data & Uncertainty** 📚**Introduction to Mathematical Thinking** 📚**CS50 Computer Science for Artificial Intelligence** 📚**Computational Thinking Using Python** 📚**Machine learning** 📚**Quantum Machine Learning**
 
 
-💻My Competitive Progarmming Profile
-
-[![Badge](https://cp-logo.vercel.app/codeforces/ronnith)](https://www.codeforces.com/users/ronnith) [![Badge](https://cp-logo.vercel.app/leetcode/ronnith)](https://www.leetcode.com/users/ronnith) [![Badge](https://cp-logo.vercel.app/codechef/Ronnith)](https://www.codechef.com/users/Ronnith) 
-
-
-
-
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DMfQQPSR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ronnith.nandy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ronnithnandy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronnithnandy) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ronnith-Nandy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rnindia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RonnithN) 
