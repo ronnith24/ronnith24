@@ -1,6 +1,7 @@
 # 💫 About Me:
 <p align="center">
-🔭 Penultimate Year MCompSc undergrad at [**University of Oxford**](https://www.ox.ac.uk/) <br>
+
+ 🔭 Penultimate Year MCompSc undergrad at  [**University of Oxford**](https://www.ox.ac.uk/)<br>
 
 ![Oxford LI Banner 1](https://github.com/user-attachments/assets/fbde2126-aab2-4902-a353-3ca0cefe8147)
 
@@ -22,6 +23,9 @@ Currently Software Development Engineering intern at [**AMAZON**](https://www.ab
 
 📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   on 📚**Deep Learning** 📚**Probability -The Science of Data & Uncertainty** 📚**Introduction to Mathematical Thinking** 📚**CS50 Computer Science for Artificial Intelligence** 📚**Computational Thinking Using Python** 📚**Machine learning** 📚**Quantum Machine Learning**
 
+🔰**My Coding Profiles** on   [**CLIST**](https://clist.by/coder/ronnith/)
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/f4cc9494-9ef3-406f-8acd-350f92a3299f">
 
 
 # 🌐 Socials:
