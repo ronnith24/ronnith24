@@ -1,12 +1,15 @@
 # 💫 About Me:
 
 🔭 Penultimate Year MCompSc undergrad at [**University of Oxford**](https://www.ox.ac.uk/) <br>
+![Oxford Banner 13](https://github.com/user-attachments/assets/03c87d9a-8fef-4964-8449-846c765df7c3)
+
+🏆**Discover Citadel** 2024 Spring Program Invitee at  [**CITADEL**](https://www.citadel.com/)
 
 Currently Software Development Engineering intern at [**AMAZON**](https://www.aboutamazon.com/) from July 2024 in   [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) Living Room Platform team located at Amazon UK Headquarters London.<br>
 
  🏆 Our 🤜 “𝗧𝗲𝗮𝗺 𝟭𝟲," secured 𝗧𝗵𝗲 [**Department of Computer Science**](https://www.cs.ox.ac.uk/) [**𝗚𝗿𝗼𝘂𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗶𝘇𝗲**](https://www.cs.ox.ac.uk/news/2322-full.html) 𝗳𝗼𝗿 𝟮𝟬𝟮𝟰 with our project, the "𝗩𝗶𝘀𝗶𝗼𝗻-𝗕𝗮𝘀𝗲𝗱 𝗣𝗿𝗶𝗰𝗲 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻 𝗧𝗼𝗼𝗹." in the Annual Group Design Practical showcase event. We worked on this project in association with our industry partner [**APEXE3**](https://www.linkedin.com/company/apexe3/) 
  
- **Discover Citadel** 2024 Spring Program Invitee at  [**CITADEL**](https://www.citadel.com/)
+ 🔰**Discover Citadel** 2024 Spring Program Invitee at  [**CITADEL**](https://www.citadel.com/)
 
 🧑‍💻 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) at Hatfield in United Kingdom during 2023 Summer. <br> 
 
