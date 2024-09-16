@@ -22,16 +22,11 @@ Currently Software Development Engineering intern at [**AMAZON**](https://www.ab
 
 📚 My Online Certification [**Portfolio**](https://drive.google.com/file/d/1VcAaOA_cK9nX_5vAcAgHdWSwjZheUx1f/view?usp=drive_link)   on 📚**Deep Learning** 📚**Probability -The Science of Data & Uncertainty** 📚**Introduction to Mathematical Thinking** 📚**CS50 Computer Science for Artificial Intelligence** 📚**Computational Thinking Using Python** 📚**Machine learning** 📚**Quantum Machine Learning**
 
-<p align="center">
+
 💻My Competitive Progarmming Profile
-<p align="center">
-[**Candidate Master**](https://codeforces.com/profile/ronnith) at **Codeforces**
-<p align="center">
-[**5⭐**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1) on Problem Solving at  **Hackerrank**
-<p align="center">
-**6⭐**  at **CodeChef**
-<p align="center">
-[**Guardian**](https://leetcode.com/ronnith/)  at **LeetCode**
+
+[![Badge](https://cp-logo.vercel.app/codeforces/ronnith)](https://www.codeforces.com/users/ronnith) [![Badge](https://cp-logo.vercel.app/leetcode/ronnith)](https://www.leetcode.com/users/ronnith) [![Badge](https://cp-logo.vercel.app/codechef/Ronnith)](https://www.codechef.com/users/Ronnith) 
+
 
 
 
