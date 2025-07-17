@@ -3,10 +3,7 @@
 
  🔭 M Comp Sc Finalist at  [**University of Oxford**](https://www.ox.ac.uk/)<br>
 
-![Oxford LI Banner 1](https://github.com/user-attachments/assets/fbde2126-aab2-4902-a353-3ca0cefe8147)
-
-
-🏆**LinkedIn Top Voice** for Computer Science & Programming 
+🏆**LinkedIn Top Voice** 2024 for Computer Science & Programming 
 
 Returning Software Development Engineering intern at [**AMAZON**](https://www.aboutamazon.com/) from July 2025 in   [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) Living Room Platform team located at Amazon UK Headquarters London.<br>
 
