@@ -2,14 +2,10 @@
 <p align="center">
 
  🔭 M Comp Sc Finalist at  [**University of Oxford**](https://www.ox.ac.uk/)<br>
- Absolutely — here’s a refined version **without explicitly stating you’re an intern**, making the tone stronger and more professional for recruiters reviewing your GitHub:
-
----
-
+ 
 ## 💼 Experience
 
 ### 🟧 **Amazon – Prime Video Living Room Platform**
-
 **London, UK** | *July 2025 – Present*
 
 * Developing **casting functionality** for the Prime Video Android TV app to enable seamless transitions from mobile playback and allow phone-based session control.
@@ -33,7 +29,6 @@
 ---
 
 🏆**LinkedIn Top Voice** 2024 for Computer Science & Programming 
-
 
  🏆 Our 🤜 “𝗧𝗲𝗮𝗺 𝟭𝟲," secured 𝗧𝗵𝗲 [**Department of Computer Science**](https://www.cs.ox.ac.uk/) [**𝗚𝗿𝗼𝘂𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗶𝘇𝗲**](https://www.cs.ox.ac.uk/news/2322-full.html) 𝗳𝗼𝗿 𝟮𝟬𝟮𝟰 with our project, the "𝗩𝗶𝘀𝗶𝗼𝗻-𝗕𝗮𝘀𝗲𝗱 𝗣𝗿𝗶𝗰𝗲 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻 𝗧𝗼𝗼𝗹." in the Annual Group Design Practical showcase event. We worked on this project in association with our industry partner [**APEXE3**](https://www.linkedin.com/company/apexe3/) 
  
