@@ -2,16 +2,42 @@
 <p align="center">
 
  🔭 M Comp Sc Finalist at  [**University of Oxford**](https://www.ox.ac.uk/)<br>
+ Absolutely — here’s a refined version **without explicitly stating you’re an intern**, making the tone stronger and more professional for recruiters reviewing your GitHub:
+
+---
+
+## 💼 Experience
+
+### 🟧 **Amazon – Prime Video Living Room Platform**
+
+**London, UK** | *July 2025 – Present*
+
+* Developing **casting functionality** for the Prime Video Android TV app to enable seamless transitions from mobile playback and allow phone-based session control.
+* Working across the Android stack using **Kotlin**, **Java**, and **Android TV SDK**, and integrating backend services via **REST APIs**, **AWS**, and **CI/CD pipelines** (Spinnaker, GitHub Actions).
+
+### 🟧 **Amazon – Prime Video Living Room Platform**
+
+**London, UK** | *July – September 2024*
+
+* Built a scalable system to **automate onboarding and configuration** of devices running Prime Video, reducing manual setup time and human error.
+* Engineered an auto-detection pipeline for **Device Types (DTIDs)** and managed full deployment using **Python**, **SQL**, **AWS**, and Git.
+
+### 🟦 **Ocado Technology – Deployment Services Team**
+
+**Hatfield, UK** | *July – September 2023*
+
+* Designed and optimized **CI/CD pipelines** and tooling for robotic systems in automated warehouses, including safety validators for **PLC programs**.
+* Improved runtime performance of existing deployment tools and resolved critical issues within 24 hours.
+* Tech Stack: **C#**, **Python**, **Java**, **TypeScript**, **Node.js**, **React**.
+
+---
 
 🏆**LinkedIn Top Voice** 2024 for Computer Science & Programming 
 
-Returning Software Development Engineering intern at [**AMAZON**](https://www.aboutamazon.com/) from July 2025 in   [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) Living Room Platform team located at Amazon UK Headquarters London.<br>
 
  🏆 Our 🤜 “𝗧𝗲𝗮𝗺 𝟭𝟲," secured 𝗧𝗵𝗲 [**Department of Computer Science**](https://www.cs.ox.ac.uk/) [**𝗚𝗿𝗼𝘂𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗶𝘇𝗲**](https://www.cs.ox.ac.uk/news/2322-full.html) 𝗳𝗼𝗿 𝟮𝟬𝟮𝟰 with our project, the "𝗩𝗶𝘀𝗶𝗼𝗻-𝗕𝗮𝘀𝗲𝗱 𝗣𝗿𝗶𝗰𝗲 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻 𝗧𝗼𝗼𝗹." in the Annual Group Design Practical showcase event. We worked on this project in association with our industry partner [**APEXE3**](https://www.linkedin.com/company/apexe3/) 
  
  🔰**Discover Citadel** 2024 Spring Program Invitee at  [**CITADEL**](https://www.citadel.com/)
-
-🧑‍💻 I completed  10 week Software Engineering Internship with the **Deployment Services Team**  at Corporate Head office of  [**Ocado Technology**](https://www.ocadogroup.com/technology/technology-pioneers/) at Hatfield in United Kingdom during 2023 Summer. <br> 
 
 🔰 Participated in [**Amazon Discover Spring Technology Insight**](https://www.amazon.jobs/en/business_categories/student-programs) event United Kingdom for spring 2023.<br> 
 
