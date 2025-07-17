@@ -1,14 +1,14 @@
 # 💫 About Me:
 <p align="center">
 
- 🔭 Penultimate Year MCompSc undergrad at  [**University of Oxford**](https://www.ox.ac.uk/)<br>
+ 🔭 M Comp Sc Finalist at  [**University of Oxford**](https://www.ox.ac.uk/)<br>
 
 ![Oxford LI Banner 1](https://github.com/user-attachments/assets/fbde2126-aab2-4902-a353-3ca0cefe8147)
 
 
 🏆**LinkedIn Top Voice** for Computer Science & Programming 
 
-Currently Software Development Engineering intern at [**AMAZON**](https://www.aboutamazon.com/) from July 2024 in   [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) Living Room Platform team located at Amazon UK Headquarters London.<br>
+Returning Software Development Engineering intern at [**AMAZON**](https://www.aboutamazon.com/) from July 2025 in   [**Prime Video**](https://www.aboutamazon.com/news/entertainment/what-you-need-to-know-about-prime-video) Living Room Platform team located at Amazon UK Headquarters London.<br>
 
  🏆 Our 🤜 “𝗧𝗲𝗮𝗺 𝟭𝟲," secured 𝗧𝗵𝗲 [**Department of Computer Science**](https://www.cs.ox.ac.uk/) [**𝗚𝗿𝗼𝘂𝗽 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗣𝗿𝗶𝘇𝗲**](https://www.cs.ox.ac.uk/news/2322-full.html) 𝗳𝗼𝗿 𝟮𝟬𝟮𝟰 with our project, the "𝗩𝗶𝘀𝗶𝗼𝗻-𝗕𝗮𝘀𝗲𝗱 𝗣𝗿𝗶𝗰𝗲 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻 𝗧𝗼𝗼𝗹." in the Annual Group Design Practical showcase event. We worked on this project in association with our industry partner [**APEXE3**](https://www.linkedin.com/company/apexe3/) 
  
